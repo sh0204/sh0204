@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?height=400&text=SoHee%20World!&desc=%20&color=FEBAC5&fontColor=F26D85)
 
-<h5 align = "center"> 👋🏻 Hi there 👋🏻
+<h3 align = "center"> 👋🏻 Hi there 👋🏻 </h3>
 <p align = "center">I'm Sohee Jung </p>
 <h3 align = "center"> 📚 Tech Stack 📚</h3>
 <p align = "center">Tech that I've used at least once </p>
