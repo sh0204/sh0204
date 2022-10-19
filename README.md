@@ -13,6 +13,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gtsdy0204)](https://solved.ac/gtsdy0204)
  
 <h3 align = "center"> ... </h3>
+  ***
 <h3 align = "center"> 📚 Tech Stack 📚</h3>
 <p align = "center">Tech that I've used at least once </p>
 
