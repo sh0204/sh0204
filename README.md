@@ -1,4 +1,4 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello%20I'm%20Sohee%20Jung&fontSize=40&animation=twinkling)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20I'm%20Sohee%20Jung&fontSize=25&&fontAlign=80&fontAlignY=40&color=gradient)
 
 <div align="center">  
   
