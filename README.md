@@ -16,3 +16,9 @@
 <a href="https://sh04120204.tistory.com/"> <img src="http://img.shields.io/badge/-Tech%20Blog-72A9F2?style=flat-square&logo=github&link=https://sh04120204.tistory.com/"style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> </a>
 <a href="https://www.instagram.com/so_________hee"> <img src="http://img.shields.io/badge/-Instagram-F2F2F2?style=flat-square&logo=Instagram&logoColor=F25C5c&link=https://www.instagram.com/so_________hee" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> 
 <a href="mailto:thgml.sh8@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thgml.sh8@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sh0204&color=dark)](https://github.com/sh0204/velog-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gtsdy0204)](https://solved.ac/gtsdy0204)
