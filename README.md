@@ -18,6 +18,7 @@
 <a href="mailto:thgml.sh8@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thgml.sh8@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 
 <div align="center">  
-<br>
+
 <h3>💕Velog💕</h3>
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sh0204&color=dark)](https://github.com/sh0204/velog-readme-stats)
