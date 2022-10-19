@@ -17,6 +17,7 @@
 <a href="https://www.instagram.com/so_________hee"> <img src="http://img.shields.io/badge/-Instagram-F2F2F2?style=flat-square&logo=Instagram&logoColor=F25C5c&link=https://www.instagram.com/so_________hee" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> 
 <a href="mailto:thgml.sh8@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thgml.sh8@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 
+<div align="center">  
 <br>
 <h3> 💘 My Velog 💘</h3>
 
