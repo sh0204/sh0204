@@ -2,8 +2,6 @@
 
 <div align="center">  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh0204&show_icons=true&theme=dark)
-  
 <h3>💕Velog💕</h3>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sh0204&color=dark)](https://github.com/sh0204/velog-readme-stats)
