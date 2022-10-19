@@ -7,7 +7,7 @@
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sh0204&color=dark)](https://github.com/sh0204/velog-readme-stats)
 
-<h3>💕BOJ💕</h3>
+<h3>✨BOJ✨</h3>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gtsdy0204)](https://solved.ac/gtsdy0204)
