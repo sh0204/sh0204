@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=SoHee%20World!&desc=%20&color=FEBAC5&fontColor=F26D85)
-
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello%20I'm%20Sohee%20Jung&fontSize=40&animation=twinkling)
 
 <div align="center">  
   
