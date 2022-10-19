@@ -23,7 +23,6 @@
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sh0204&color=dark)](https://github.com/sh0204/velog-readme-stats)
 
-<br>
 <h3>💕BOJ💕</h3>
 
 [![Solved.ac
