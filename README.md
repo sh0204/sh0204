@@ -5,7 +5,8 @@
 <h3>💕Velog💕</h3>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sh0204)](https://github.com/eungyeole/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sh0204&color=dark)][(https://velog.io/@sh0204)]
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sh0204&color=dark)](https://velog.io/@sh0204)
+
   
 <h3>✨BOJ✨</h3>
 
