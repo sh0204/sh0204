@@ -4,8 +4,8 @@
   
 <h3>💕Velog💕</h3>
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sh0204&color=dark)](https://github.com/sh0204/velog-readme-stats)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sh0204)](https://github.com/eungyeole/velog-readme-stats)
+  
 <h3>✨BOJ✨</h3>
 
 [![Solved.ac
