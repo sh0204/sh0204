@@ -3,7 +3,7 @@
 <div align="center">  
   
 <h3>💕Velog💕</h3>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sh0204)](https://velog.io/@sh0204) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sh0204)](https://github.com/eungyeole/velog-readme-stats)
 
   
 <h3>✨BOJ✨</h3>
