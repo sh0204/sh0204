@@ -2,11 +2,12 @@
 
 <div align="center">  
   
-<h3>💕Velog💕</h3>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sh0204)](https://velog.io/@sh0204) 
+<br>
+<h3> 💘 My Velog 💘</h3>
 
-<br>  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=yoojinjangjang)](https://velog.io/@yoojinjangjang) 
+
+<br>
 <h3>✨BOJ✨</h3>
 
 [![Solved.ac
