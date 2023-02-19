@@ -5,6 +5,7 @@
 <h3>💕Velog💕</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sh0204&color=dark)](https://velog.io/@sh0204)
+https://velog-readme-stats.vercel.app/api/redirect?name=sh0204&color=dark&tag=github
 
   
 <h3>✨BOJ✨</h3>
