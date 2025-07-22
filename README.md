@@ -21,8 +21,11 @@
   <img src="https://img.shields.io/badge/Vue-888888?style=for-the-badge&logo=vue.js&logoColor=3FB27F" alt="Vue" />
   <img src="https://img.shields.io/badge/TypeScript-888888?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-888888?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-888888?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Spring-888888?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring" />
   <img src="https://img.shields.io/badge/MySQL-888888?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-888888?style=for-the-badge&logo=mariadb&logoColor=003545" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Oracle-888888?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle" />
   <img src="https://img.shields.io/badge/Git-888888?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-888888?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
 </p>
