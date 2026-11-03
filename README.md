@@ -1,8 +1,5 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42b883,100:3178c6&height=200&section=header&text=Sohee%20Jung&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sohee+%F0%9F%91%8B;Vue+%7C+TypeScript+%7C+Spring+%7C+Java;Clean+Code+%26+Great+UX+%E2%9C%A8" alt="Typing SVG" />
+  <img src="./assets/terminal.svg" width="100%" alt="Sohee Jung · Full-Stack Developer" />
 </p>
 
 <p align="center">
@@ -16,7 +13,7 @@
 
 ```ts
 const sohee = {
-  role: "Frontend Developer",
+  role: "Full-Stack Developer",
   focus: ["Clean Code", "User Experience"],
   stack: {
     frontend: ["Vue", "TypeScript", "JavaScript"],
@@ -53,13 +50,10 @@ const sohee = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh0204&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=42b883&icon_color=3178c6&text_color=888888" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0204&layout=compact&theme=transparent&hide_border=true&title_color=42b883&text_color=888888" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh0204&theme=github_dark" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sh0204&theme=github_dark" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sh0204&theme=transparent&hide_border=true&ring=42b883&fire=3178c6&currStreakLabel=42b883&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=888888" alt="GitHub Streak" />
 </p>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178c6,100:42b883&height=100&section=footer" width="100%" alt="footer" />
